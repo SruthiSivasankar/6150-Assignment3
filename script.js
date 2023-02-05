@@ -33,6 +33,7 @@ function hideDescRows()
       document.getElementById("studentDesc"+id).style.display="none";
       alert("Record deleted successfully");
 
+
     }
     function editButton()
     {
@@ -180,3 +181,5 @@ function hideDescRows()
       }
      
     }
+
+    var m ;
